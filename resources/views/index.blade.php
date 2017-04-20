@@ -3,32 +3,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Chatty | A simple chat app build with Laravel, Pusher and AngularJS</title>
+    <title>Eli Chat | A simple chat app build with Laravel, Pusher and AngularJS</title>
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
     <div class="container" ng-controller="Chat as chat">
         <div class="ui stackable padded grid">
             <aside class="three wide column info-column">
-                <h1>Chatty</h1>
+                <h1>Eli Chat</h1>
                 <p>
                     Simple chat app built with Laravel, Pusher and AngularJS.
                 </p>
-                <p>
-                    There's a lot of room for improvement so feel free to submit pull requests.
-                </p>
-                <div class="ui large horizontal divided list">
-                    <div class="item">
-                        <div class="content">
-                            <a href="https://twitter.com/jahvi"><i class="twitter icon"></i> jahvi</a>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="content">
-                            <a href="https://github.com/jahvi/chatty"><i class="github icon"></i> GitHub</a>
-                        </div>
-                    </div>
-                </div>
+
             </aside>
 
             <div class="ten wide column chat-column">

@@ -24,3 +24,4 @@ A simple chat app built with Laravel, Pusher and AngularJS
 If you want to contribute with more features or fixes feel free to fork and submit pull requests.
 
 Happy chatting! :ghost:
+# eliiiichat
